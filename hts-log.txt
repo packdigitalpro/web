@@ -1,0 +1,69 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 Apr 2024 14:32:15 at https://packdigital.click/entrega-de-material-descargable +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://packdigital.click/entrega-de-material-descargable -O1 "E:\2. paginas\PACKDIGITAL1\MATERIAL DESCARGABLE\material" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:32:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/xmlrpc.php?rsd (from https://packdigital.click/entrega-de-material-descargable)
+14:32:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/?p=833 (from https://packdigital.click/entrega-de-material-descargable)
+14:32:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2024/01/1.png (from https://packdigital.click/entrega-de-material-descargable)
+14:32:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/xmlrpc.php?rsd (from https://packdigital.click/entrega-de-material-descargable)
+14:32:52	Warning: 	Moved Permanently for https://packdigital.click/?p=833
+14:32:52	Warning: 	File has moved from https://packdigital.click/?p=833 to https://packdigital.click/entrega-de-material-descargable/
+14:32:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2024/01/1.png (from https://packdigital.click/entrega-de-material-descargable)
+14:33:05	Warning: 	Moved Permanently for https://packdigital.click/?p=896
+14:33:05	Warning: 	File has moved from https://packdigital.click/?p=896 to https://packdigital.click/cuenta-educativa/
+14:33:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/canva-pro-e/ (from https://packdigital.click/)
+14:34:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://packdigital.click/xmlrpc.php?rsd (from https://packdigital.click/entrega-de-material-descargable)
+14:34:47	Warning: 	Moved Permanently for https://packdigital.click/?p=139
+14:34:47	Warning: 	File has moved from https://packdigital.click/?p=139 to https://packdigital.click/canva-pro/
+14:34:53	Warning: 	Moved Permanently for https://packdigital.click/?p=989
+14:34:53	Warning: 	File has moved from https://packdigital.click/?p=989 to https://packdigital.click/canva-pro-2024-j/
+14:34:53	Warning: 	Moved Permanently for https://packdigital.click/?p=996
+14:34:53	Warning: 	File has moved from https://packdigital.click/?p=996 to https://packdigital.click/canva-pro-2024/
+14:34:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/?p=659 (from https://packdigital.click/canva-pro-2/)
+14:34:53	Warning: 	Moved Permanently for https://packdigital.click/?p=145
+14:34:53	Warning: 	File has moved from https://packdigital.click/?p=145 to https://packdigital.click/canva-pro-w/
+14:34:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/07/n1ixozitmrg7bsby9lc7-1024x173-1-1.webp (from https://packdigital.click/canva-pro-w/)
+14:34:53	Warning: 	Moved Permanently for https://packdigital.click/?p=654
+14:34:53	Warning: 	File has moved from https://packdigital.click/?p=654 to https://packdigital.click/canva-pro-w2/
+14:34:53	Warning: 	Moved Permanently for https://packdigital.click/?p=11
+14:34:53	Warning: 	File has moved from https://packdigital.click/?p=11 to https://packdigital.click/hamburguesa-master/
+14:34:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/elementor/css/post-1045.css?ver=1712242912 (from https://packdigital.click/material-decargable-canvapro-y-wordpress/)
+14:34:53	Warning: 	Moved Permanently for https://packdigital.click/?p=1045
+14:34:53	Warning: 	File has moved from https://packdigital.click/?p=1045 to https://packdigital.click/material-decargable-canvapro-y-wordpress/
+14:34:53	Warning: 	Moved Permanently for https://packdigital.click/?p=81
+14:34:53	Warning: 	File has moved from https://packdigital.click/?p=81 to https://packdigital.click/pack-cursos/
+14:34:54	Warning: 	Moved Permanently for https://packdigital.click/?p=97
+14:34:54	Warning: 	File has moved from https://packdigital.click/?p=97 to https://packdigital.click/pack-frituras/
+14:34:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/01/Diseno-sin-titulo-1.jpg (from https://packdigital.click/pack-frituras/)
+14:34:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/01/diseno-sin-titulo-4-1.png (from https://packdigital.click/pack-frituras/)
+14:34:55	Warning: 	Moved Permanently for https://packdigital.click/?p=158
+14:34:55	Warning: 	File has moved from https://packdigital.click/?p=158 to https://packdigital.click/pack-wordpress/
+14:34:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/08/2.png (from https://packdigital.click/pack-wordpress/)
+14:34:56	Warning: 	Moved Permanently for https://packdigital.click/?p=1025
+14:34:56	Warning: 	File has moved from https://packdigital.click/?p=1025 to https://packdigital.click/pack-wordpress-y-canva/
+14:34:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-json/wp/v2/pages/614 (from https://packdigital.click/prueba/)
+14:34:56	Warning: 	Moved Permanently for https://packdigital.click/?p=614
+14:34:56	Warning: 	File has moved from https://packdigital.click/?p=614 to https://packdigital.click/prueba/
+14:34:56	Warning: 	Moved Permanently for https://packdigital.click/?p=4
+14:34:56	Warning: 	File has moved from https://packdigital.click/?p=4 to https://packdigital.click/welcome-to-cloudways/
+14:34:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/xmlrpc.php (from https://packdigital.click/welcome-to-cloudways/)
+14:34:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/author/raul/feed/ (from https://packdigital.click/author/raul/)
+14:35:00	Warning: 	Moved Permanently for https://packdigital.click/?p=223
+14:35:00	Warning: 	File has moved from https://packdigital.click/?p=223 to https://packdigital.click/canva-pro-e/
+14:35:00	Error: 	"Not Found" (404) at link https://packdigital.click/canva-pro/a (from https://connect.facebook.net/en_US/fbevents.js)
+14:35:00	Error: 	"Not Found" (404) at link https://packdigital.click/canva-pro/POST (from https://connect.facebook.net/en_US/fbevents.js)
+14:35:00	Error: 	"Not Found" (404) at link https://packdigital.click/canva-pro/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+14:35:00	Error: 	"Not Found" (404) at link https://packdigital.click/canva-pro/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+14:35:00	Error: 	"Not Found" (404) at link https://packdigital.click/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+14:35:00	Warning: 	Moved Permanently for https://packdigital.click/?p=659
+14:35:00	Warning: 	File has moved from https://packdigital.click/?p=659 to https://packdigital.click/canva-pro-2/
+14:35:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/elementor/css/post-1045.css?ver=1712242912 (from https://packdigital.click/material-decargable-canvapro-y-wordpress/)
+14:35:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/xmlrpc.php (from https://packdigital.click/welcome-to-cloudways/)
+14:35:00	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://packdigital.click/xmlrpc.php (from https://packdigital.click/welcome-to-cloudways/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 45 seconds : 333 links scanned, 291 files written (49041736 bytes overall) [37092015 bytes received at 224800 bytes/sec], 15403841 bytes transferred using HTTP compression in 184 files, ratio 17%, 12.3 requests per connection
+(7 errors, 51 warnings, 0 messages)
